@@ -30,3 +30,7 @@ Then visit `http://localhost:8000`.
 Read `DEPLOY_GUIDE.md` for GitHub + Cloudflare Pages + domain DNS instructions. The GitHub repository should contain **the extracted files**, not the `.zip` archive.
 
 Status: **Prepared locally, not uploaded or deployed.**
+
+## Post-launch SEO and analytics
+
+See `SEO_ANALYTICS_SETUP.md` for Search Console, Cloudflare Web Analytics and indexability checks. `PORTFOLIO_V2_PLAN.md` is planning only, not live content.
