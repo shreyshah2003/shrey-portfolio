@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 420" fill="none">
+<defs>
+<linearGradient id="metal" x1="140" y1="50" x2="500" y2="370" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset=".25" stop-color="#a7b5bd"/><stop offset=".5" stop-color="#eef3f1"/><stop offset=".8" stop-color="#8799a4"/><stop offset="1" stop-color="#dfe7e6"/></linearGradient>
+<linearGradient id="bead" x1="0" y1="-11" x2="0" y2="12" gradientUnits="userSpaceOnUse"><stop stop-color="#8299ff"/><stop offset=".38" stop-color="#304fee"/><stop offset=".7" stop-color="#1735bb"/><stop offset="1" stop-color="#0d207b"/></linearGradient>
+<linearGradient id="rod"><stop stop-color="#738784"/><stop offset=".45" stop-color="#faffed"/><stop offset="1" stop-color="#7c8e87"/></linearGradient>
+<filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="8" dy="16" stdDeviation="13" flood-color="#244c16" flood-opacity=".2"/></filter>
+<g id="b"><path d="M-20 0-12-10H12L20 0 12 10H-12Z" fill="url(#bead)" stroke="#172e99" stroke-width=".6"/><path d="M-12-8H11" stroke="#b2c0ff" stroke-opacity=".5"/></g>
+</defs>
+<g transform="translate(340 200) rotate(-9) skewX(-6) translate(-340 -200)" filter="url(#shadow)">
+<rect x="144" y="68" width="400" height="292" rx="17" fill="#7a8c94"/>
+<rect x="136" y="58" width="400" height="292" rx="17" fill="url(#metal)" stroke="#eef7ec" stroke-width="2"/>
+<rect x="155" y="78" width="362" height="252" rx="5" fill="#c8e6a2" stroke="#6d8285" stroke-width="2"/>
+<g stroke="url(#rod)" stroke-width="5"><path d="M183 80V330M234 80V330M285 80V330M336 80V330M387 80V330M438 80V330M489 80V330"/></g>
+<g>
+<use href="#b" x="183" y="110"/><use href="#b" x="234" y="127"/><use href="#b" x="285" y="110"/><use href="#b" x="336" y="127"/><use href="#b" x="387" y="110"/><use href="#b" x="438" y="127"/><use href="#b" x="489" y="110"/>
+<use href="#b" x="183" y="185"/><use href="#b" x="183" y="260"/><use href="#b" x="183" y="282"/><use href="#b" x="183" y="304"/>
+<use href="#b" x="234" y="238"/><use href="#b" x="234" y="260"/><use href="#b" x="234" y="282"/><use href="#b" x="234" y="304"/>
+<use href="#b" x="285" y="185"/><use href="#b" x="285" y="207"/><use href="#b" x="285" y="282"/><use href="#b" x="285" y="304"/>
+<use href="#b" x="336" y="185"/><use href="#b" x="336" y="207"/><use href="#b" x="336" y="229"/><use href="#b" x="336" y="304"/>
+<use href="#b" x="387" y="238"/><use href="#b" x="387" y="260"/><use href="#b" x="387" y="282"/><use href="#b" x="387" y="304"/>
+<use href="#b" x="438" y="185"/><use href="#b" x="438" y="260"/><use href="#b" x="438" y="282"/><use href="#b" x="438" y="304"/>
+<use href="#b" x="489" y="185"/><use href="#b" x="489" y="207"/><use href="#b" x="489" y="229"/><use href="#b" x="489" y="251"/>
+</g>
+<path d="M155 153H517" stroke="#84999f" stroke-width="15"/><path d="M155 149H517" stroke="url(#metal)" stroke-width="12"/>
+<g fill="#617780"><circle cx="146" cy="69" r="2"/><circle cx="526" cy="69" r="2"/><circle cx="146" cy="340" r="2"/><circle cx="526" cy="340" r="2"/></g>
+</g></svg>

@@ -1,4 +1,21 @@
-/*
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: camera=(), microphone=(), geolocation=()
+/
+  Cache-Control: no-cache
+
+/index.html
+  Cache-Control: no-cache
+
+/*.js
+  Cache-Control: no-cache
+
+/*.css
+  Cache-Control: no-cache
+
+/assets/*
+  Cache-Control: public, max-age=3600
+
+/vendor/*
+  Cache-Control: public, max-age=86400
+
+/assets/shrey-shah-resume.pdf
+  Content-Type: application/pdf
+  Content-Disposition: attachment; filename="Shrey-Shah-Resume.pdf"
