@@ -233,3 +233,7 @@ body{background-image:radial-gradient(circle,#777d8252 .8px,transparent .9px);ba
 .speed-company-bottom .experience-tenure{margin-top:0;flex:0 0 auto}
 .fintech-marginalia{display:block;width:clamp(100px,10vw,138px);height:auto;flex:0 1 138px;min-width:0;pointer-events:none;user-select:none}
 @media(max-width:800px){.speed-company-bottom{max-width:330px;margin-top:6px;gap:18px}.fintech-marginalia{width:118px;flex-basis:118px}}
+
+/* A gentle photographic crop; retain the supplied photo without retouching. */
+.portrait-photo-frame{overflow:hidden;aspect-ratio:4/5;width:100%;box-shadow:0 0 0 1px #191a1b12}
+.portrait-photo-frame img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 35%;transform:scale(1.06);transform-origin:50% 35%;box-shadow:none}
