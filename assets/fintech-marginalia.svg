@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 90" fill="none">
+  <!-- Original pen-style marginalia: Bitcoin and a Lightning payment receipt. -->
+  <g stroke="#213eed" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(34 43) rotate(-14)">
+      <path d="M-25-7C-20-26 2-33 18-20C36-6 30 17 13 26C-5 35-28 20-28 2C-28-2-27-5-25-7Z"/>
+      <path d="M-20-7C-15-22 3-25 15-16C28-5 23 13 10 20C-5 26-23 14-23 1" opacity=".35" stroke-width="1.1"/>
+      <path d="M-9-15H3C17-15 18-1 4-1H-8M-8-1H5C20-1 20 15 4 15H-10M-5-16V16M0-21V-16M7-20V-15M0 15V21M7 15V20" stroke-width="2.4"/>
+      <path d="M-36-14l-6-3M-30-25l-2-6M28 22l5 4" stroke-width="1.4"/>
+    </g>
+    <path d="M66 51C72 43 77 42 84 44" stroke-dasharray="1.5 4" stroke-width="1.3"/>
+    <g transform="translate(113 44) rotate(11)">
+      <path d="M-21-26L-15-29L-9-26L-3-29L3-26L9-29L15-26L21-29V27L15 24L9 27L3 24L-3 27L-9 24L-15 27L-21 24Z"/>
+      <path d="M2-20L-10-1H0L-4 12L12-7H2L7-20Z" fill="#213eed" stroke="none"/>
+      <path d="M-11 17H11M-10 21H3" stroke-width="1.2" opacity=".5"/>
+      <path d="M-30 10H-23M-29 10l3-3M-29 10l3 3M24-13H31M31-13l-3-3M31-13l-3 3" stroke-width="1.4"/>
+    </g>
+    <path d="M85 80C102 77 127 79 140 74" opacity=".3" stroke-width="1.1"/>
+    <circle cx="148" cy="17" r="2" fill="#213eed" stroke="none"/>
+  </g>
+</svg>
